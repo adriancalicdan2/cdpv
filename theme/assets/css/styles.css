@@ -1226,7 +1226,7 @@ span.post-date i {
 
 .menu-style2.main-menu nav ul li.middle-logo a img.hb-bottom-shape {
   position: absolute;
-  left: 50%;
+  left: 100%;
   min-width: 157px;
   transform: translateX(-50%);
 }
