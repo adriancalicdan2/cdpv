@@ -265,7 +265,8 @@
 
     /*Home two*/
     .header-two {
-        padding-top: 23px;
+        padding-top: 43px;
+        padding-bottom: 28px;
         background: #212121;
     }
 
@@ -276,7 +277,7 @@
         display: none!important;
     }
     .hero-area {
-        margin-top: 104px;
+        margin-top: 50px;
         padding: 96px 0;
     }
     .hero-content h2 {
