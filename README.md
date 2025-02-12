@@ -35,16 +35,6 @@ As this is a website hosted on Netlify, there is no need for installation. Simpl
 3. Click on specific sections such as Announcements, Courses, Admissions, or Calendar to access relevant information.
 4. Contact the school administration or faculty using the provided contact information.
 
-## Contributing
-
-We welcome contributions to improve the Colegio de Porta Vaga website! If you find any issues or have suggestions for enhancements, please open an issue or submit a pull request on our GitHub repository.
-
-Please review our [contributing guidelines](CONTRIBUTING.md) before making any contributions.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code according to the terms specified in the license.
-
 ## Contact
 
 If you have any questions or feedback regarding the Colegio de Porta Vaga website, feel free to contact us:
